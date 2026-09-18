@@ -1,0 +1,5 @@
+El examen de la 1 ev
+- Nos da 15-16 preguntas y desarrollar 1-2 líneas
+	- Python Contenidos examen
+		- Gestion de dependencias --> requirements.txt (librerias y versión)
+		- 
